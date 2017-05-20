@@ -1,0 +1,5 @@
+﻿  Burn.cpp
+g:\kc4i\erosion thickness\impl\et\et\burn.cpp(28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+g:\kc4i\erosion thickness\impl\et\et\burn.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  ET.vcxproj -> G:\kc4i\Erosion Thickness\impl\ET\Debug\ET.exe
+  ET.vcxproj -> G:\kc4i\Erosion Thickness\impl\ET\Debug\ET.pdb (Partial PDB)
